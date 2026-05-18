@@ -61,7 +61,7 @@ export function HomePage() {
                   Add to Cart
                 </button>
               </div>
-            )
+            );
           })}
         </div>
       </div>
